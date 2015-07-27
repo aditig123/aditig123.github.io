@@ -1,7 +1,10 @@
 h1,p,title {
-	color: #508699;
+	color: #FFFFFF;
 }
 
+
 body {
-	background-color: #F0FFFB;
+	background-color: #FFFFFF;
+	background: url (http://i.imgur.com/4NV8yO1.jpg);
+	background-size: cover;
 }
