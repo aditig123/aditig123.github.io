@@ -5,9 +5,8 @@ p {
 
 
 body {
-	background-color: #FFFFFF;
+	background-color: rgba(0,0,0,.75);
 	background: url (http://i.imgur.com/4NV8yO1.jpg);
-	background-size: cover;
 }
 #slogan {
 	text-align: center;
