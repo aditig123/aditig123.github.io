@@ -1,15 +1,9 @@
-<<<<<<< HEAD
+
 p {
-=======
-h1,p,title {
->>>>>>> origin/master
 	color: #000000;
 }
 
-
-
 body {
-<<<<<<< HEAD
 	background-color: rgba(0,0,0,.75);
 	background: url (http://i.imgur.com/4NV8yO1.jpg);
 }
@@ -17,10 +11,4 @@ body {
 	text-align: center;
 	text-transform: uppercase;
 	font-family: helvetica ;
-
-=======
-	background-color: #000000;
-	background: url (http://i.imgur.com/4NV8yO1.jpg);
-	background-size: cover;
->>>>>>> origin/master
 }
