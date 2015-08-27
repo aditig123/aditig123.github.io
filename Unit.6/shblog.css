@@ -11,12 +11,13 @@ h4 {
 }
 
 img { 
+    float: left;
     padding: 0 10px 0 0;
 }
 
 #filler { 
     font-size: 16px;
-    text-align: center;
+    text-align: left;
 }
 
 nav {
@@ -47,7 +48,7 @@ a:hover {
 
 aside {
     float: left;
-    width: 630px;
+    width: 800px;
     padding: 0 0;
     margin: 0 0 0 0;
 }
