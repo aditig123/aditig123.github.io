@@ -5,24 +5,18 @@
 }
 
 h4 {
-    text-align: left;
+    text-align: center;
     font-family: "Open Sans", sans-serif;
     color: #808080;
 }
 
 img { 
-    float:left;
     padding: 0 10px 0 0;
-}
-
-img.resize {
-    width:500px;
-    height: auto;
 }
 
 #filler { 
     font-size: 16px;
-    text-align: left;
+    text-align: center;
 }
 
 nav {
@@ -53,7 +47,7 @@ a:hover {
 
 aside {
     float: left;
-    width: 700px;
+    width: 630px;
     padding: 0 0;
     margin: 0 0 0 0;
 }
