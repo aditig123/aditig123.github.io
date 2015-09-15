@@ -104,16 +104,16 @@ span.text-content {
     float: none;
     text-align: center;
     width:100%;
-
   }
 
 
 @media only screen and (max-width: 524px) {
-  ul.img-list li {
-    width: 100%;
-    height: 300px;
+   ul.img-list {
+    margin: 0;
+   }
+   ul.img-list li {
+    margin: 0;
   }
   span.text-content {
-    width: 100%;
   }
 }
