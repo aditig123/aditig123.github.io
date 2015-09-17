@@ -1,0 +1,51 @@
+#slogan {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Inconsolata';
+}
+
+body {
+	background: url("http://i.imgur.com/4NV8yO1.jpg");
+}
+
+h1{ 
+	text-align: center;
+	font-size: 75pt;
+}
+
+nav {
+  float: left;
+  width: 200px;
+}
+
+nav a {
+  font-family: "Inconsolata", sans-serif;
+  padding: 5px 10px;
+  color: #000000;
+  text-decoration: none;
+  display: block;
+}
+
+a:hover {
+	color: white;
+}
+
+
+@media only screen and (max-width: 1300px) {
+  nav {
+    float: none;
+    text-align: center;
+    width:100%;
+  }
+
+
+@media only screen and (max-width: 524px) {
+   ul.img-list {
+    margin: 0;
+   }
+   ul.img-list li {
+    margin: 0;
+  }
+  span.text-content {
+  }
+}
