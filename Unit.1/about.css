@@ -30,6 +30,22 @@ a:hover {
 	color: white;
 }
 
+aside {
+  float: left;
+  width: 800px;
+  padding: 0 0;
+  margin: 0 0 0 0;
+  background-color: rgba(255,255,255,0.3);
+}
+
+#filler {
+  font-family: "Inconsolata", sans-serif;
+}
+
+h4 {
+  font-family: "Inconsolata", sans-serif;
+}
+
 
 @media only screen and (max-width: 1300px) {
   nav {
@@ -37,15 +53,14 @@ a:hover {
     text-align: center;
     width:100%;
   }
+  aside {
+    width: 100%;
+  }
+
+  h4{
+    text-align: center;
+  }
 
 
 @media only screen and (max-width: 524px) {
-   ul.img-list {
-    margin: 0;
-   }
-   ul.img-list li {
-    margin: 0;
-  }
-  span.text-content {
-  }
-}
+  

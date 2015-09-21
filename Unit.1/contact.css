@@ -40,12 +40,5 @@ a:hover {
 
 
 @media only screen and (max-width: 524px) {
-   ul.img-list {
-    margin: 0;
-   }
-   ul.img-list li {
-    margin: 0;
-  }
-  span.text-content {
-  }
+   
 }
